@@ -2,7 +2,7 @@
     <html>
     <head>
     	<meta charset="utf-8">
-    	<title>Setting up Bootstrap in Laravel</title>
+    	<title>Admiral2020</title>
     	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     	<link rel="stylesheet" href="/css/app.css">
     </head>
