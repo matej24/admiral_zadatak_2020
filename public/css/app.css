@@ -1,5 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Nunito);
 
+
+main > .container {
+    padding: 60px 15px 0;
+}
+
+.admiral-color {
+    background-color: #072669 !important;
+}
+
 /*!
  * Bootstrap v4.1.3 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
