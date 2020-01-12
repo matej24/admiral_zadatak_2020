@@ -1,4 +1,4 @@
-# Admiral 2020
+# :diamonds: :game_die: Admiral 2020 :game_die: :spades:
 
 Project that shows all game machines and game types in table, adding new entries and removing machines from table
 
